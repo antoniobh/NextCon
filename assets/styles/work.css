@@ -1,0 +1,41 @@
+.contentName{
+  background: #5055bf;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+}
+
+.contentName h1{
+  color: white;
+  font-size: 80px;
+  vertical-align: center;
+}
+
+
+.options{
+  background: #E9ECEF;
+}
+
+
+.options ul{
+}
+.options li{
+  display: inline-block;
+  padding: 5px;
+  list-style: none;
+}
+.options li a{
+  padding: 5px;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+
+}
+
+.card{
+  margin: 10px;
+}
